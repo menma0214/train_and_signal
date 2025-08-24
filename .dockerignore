@@ -1,0 +1,9 @@
+node_module
+dist
+.git
+.gitignore
+Dockerfile*
+docker-compose*
+.vscode
+.DS_Store
+*.log
